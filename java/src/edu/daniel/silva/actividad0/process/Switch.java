@@ -1,4 +1,4 @@
-package edu.daniel.silva.actividad1.process;
+package edu.daniel.silva.actividad0.process;
 
 public class Switch {
     private boolean isOn;
