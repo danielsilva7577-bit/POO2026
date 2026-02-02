@@ -110,4 +110,5 @@ public class TestActividad3 {
     public void testMenorSalarioEdadRara() {
         assertEquals("Daniel", lEmpleado.menorSalarioEdadRara(getEjemplo()).getNombre());
     }
+
 }
