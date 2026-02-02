@@ -35,5 +35,4 @@ public class NumerosEnteros {
         }
         return cuenta;
     }
-
 }
