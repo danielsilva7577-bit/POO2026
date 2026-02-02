@@ -16,6 +16,7 @@ public class Producto {
         this.departamento = departamento;
     }
 
+
     public String getNombre() { return nombre; }
     public int getEdad() { return edad; }
     public double getSalario() { return salario; }

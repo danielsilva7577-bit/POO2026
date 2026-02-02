@@ -16,3 +16,6 @@ public class Main {
         CLI.mostrarMenu();
     }
 }
+
+// hacer un programa que reciba una lista de numeros y si hay un cero lo mande al final de la lista
+// otro que reciba una lista de empelados y que me diga cual gana mas
